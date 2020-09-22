@@ -1,5 +1,8 @@
 # 텍스트 처리를 위한 Linux 기본 명령어 및 개념
 
+* [고급 Bash 스크립팅 가이드](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/x12718.html)
+* [Bash Shell Script 소개](https://mug896.github.io/bash-shell/index.html)
+
 ## 심볼릭 링크
 * 링크를 연결하여 원본 파일을 직접 사용하는 것과 같은 효과를 내는 링크
 * 윈도우의 바로가기와 비슷한 개념
