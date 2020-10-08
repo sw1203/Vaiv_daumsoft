@@ -10,7 +10,9 @@
     - 두 배열 간의 연산에서 최소한 하나의 배열의 차원이 1(1행또는 1열)이라면 가능
     - 차원의 짝이 맞는 경우 가능하다.
 - [코드](https://github.com/sw1203/Vaiv_daumsoft/blob/master/Python/code/braodcasting.py)
-- ![broadcating](https://github.com/sw1203/Vaiv_daumsoft/blob/master/img/broadcating%EC%98%88%EC%8B%9C.PNG)
+- 예시
+
+![broadcating](https://github.com/sw1203/Vaiv_daumsoft/blob/master/img/broadcating%EC%98%88%EC%8B%9C.PNG)
 
 ## Mutable
 - 변경 가능한 객체
